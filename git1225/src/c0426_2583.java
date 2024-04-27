@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class c0426_2583 {{
+public class c0426_2583 {
 	
 	static int N,M,K; // x, y, 영역의 개수
 	
