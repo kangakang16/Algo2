@@ -14,13 +14,13 @@ public class c0507_1912 {
 		
 		
 
-		dp[0]=arr[0];
-		for (int i = 1; i<N; i++) {
+		
+		for (int i = 0; i<N; i++) {
 			
 			arr[i]=sc.nextInt();
 			
 		}
-		
+		dp[0]=arr[0];
 		int max=0;
 		for(int i =1; i<N; i++) {
 			
